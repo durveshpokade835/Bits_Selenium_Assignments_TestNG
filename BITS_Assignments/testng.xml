@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All Assignments Suite">
+ <listeners>
+        <listener class-name="org.testng.reporters.XMLReporter"/>
+    </listeners>
+    
+    <test name="Assignment2 Tests">
+        <packages>
+            <package name="assignment2"/>
+        </packages>
+  </test> <!-- Test -->
+  
+   <test name="Assignment3 Tests">
+        <packages>
+            <package name="assignment3"/>
+        </packages>
+  </test> <!-- Test -->
+  
+  
+  
+</suite> <!-- Suite -->
+
+
+  
