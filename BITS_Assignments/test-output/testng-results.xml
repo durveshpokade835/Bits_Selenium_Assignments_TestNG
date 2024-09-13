@@ -2,86 +2,86 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-12T19:52:49 IST" name="All Assignments Suite" finished-at="2024-09-12T19:54:08 IST" duration-ms="79765">
+  <suite started-at="2024-09-13T20:05:05 IST" name="All Assignments Suite" finished-at="2024-09-13T20:06:48 IST" duration-ms="103200">
     <groups>
     </groups>
-    <test started-at="2024-09-12T19:52:49 IST" name="Assignment2 Tests" finished-at="2024-09-12T19:53:39 IST" duration-ms="50388">
+    <test started-at="2024-09-13T20:05:05 IST" name="Assignment2 Tests" finished-at="2024-09-13T20:05:56 IST" duration-ms="51123">
       <class name="assignment2.DynamicWebTable">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:assignment2.DynamicWebTable@543295b0]" started-at="2024-09-12T19:52:49 IST" name="setUp" finished-at="2024-09-12T19:52:54 IST" duration-ms="4987" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:assignment2.DynamicWebTable@c667f46]" started-at="2024-09-13T20:05:05 IST" name="setUp" finished-at="2024-09-13T20:05:10 IST" duration-ms="4732" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testExtractAndValidate()[pri:0, instance:assignment2.DynamicWebTable@543295b0]" started-at="2024-09-12T19:52:54 IST" name="testExtractAndValidate" finished-at="2024-09-12T19:53:14 IST" duration-ms="20271" status="PASS">
+        <test-method signature="testExtractAndValidate()[pri:0, instance:assignment2.DynamicWebTable@c667f46]" started-at="2024-09-13T20:05:10 IST" name="testExtractAndValidate" finished-at="2024-09-13T20:05:30 IST" duration-ms="20389" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testExtractAndValidate -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:assignment2.DynamicWebTable@543295b0]" started-at="2024-09-12T19:53:14 IST" name="tearDown" finished-at="2024-09-12T19:53:14 IST" duration-ms="209" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:assignment2.DynamicWebTable@c667f46]" started-at="2024-09-13T20:05:30 IST" name="tearDown" finished-at="2024-09-13T20:05:31 IST" duration-ms="363" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:assignment2.DynamicWebTable@543295b0]" started-at="2024-09-12T19:53:14 IST" name="setUp" finished-at="2024-09-12T19:53:18 IST" duration-ms="4318" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:assignment2.DynamicWebTable@c667f46]" started-at="2024-09-13T20:05:31 IST" name="setUp" finished-at="2024-09-13T20:05:36 IST" duration-ms="5006" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testSortAndVerify()[pri:0, instance:assignment2.DynamicWebTable@543295b0]" started-at="2024-09-12T19:53:18 IST" name="testSortAndVerify" finished-at="2024-09-12T19:53:39 IST" duration-ms="20371" status="PASS">
+        <test-method signature="testSortAndVerify()[pri:0, instance:assignment2.DynamicWebTable@c667f46]" started-at="2024-09-13T20:05:36 IST" name="testSortAndVerify" finished-at="2024-09-13T20:05:56 IST" duration-ms="20365" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSortAndVerify -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:assignment2.DynamicWebTable@543295b0]" started-at="2024-09-12T19:53:39 IST" name="tearDown" finished-at="2024-09-12T19:53:39 IST" duration-ms="192" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:assignment2.DynamicWebTable@c667f46]" started-at="2024-09-13T20:05:56 IST" name="tearDown" finished-at="2024-09-13T20:05:56 IST" duration-ms="240" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- assignment2.DynamicWebTable -->
     </test> <!-- Assignment2 Tests -->
-    <test started-at="2024-09-12T19:53:39 IST" name="Assignment3 Tests" finished-at="2024-09-12T19:54:08 IST" duration-ms="29329">
+    <test started-at="2024-09-13T20:05:56 IST" name="Assignment3 Tests" finished-at="2024-09-13T20:06:48 IST" duration-ms="52053">
       <class name="assignment3.HandlingDynamicElements">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:assignment3.HandlingDynamicElements@48e1f6c7]" started-at="2024-09-12T19:53:54 IST" name="setUp" finished-at="2024-09-12T19:54:03 IST" duration-ms="9383" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:assignment3.HandlingDynamicElements@658c5a19]" started-at="2024-09-13T20:06:38 IST" name="setUp" finished-at="2024-09-13T20:06:43 IST" duration-ms="5080" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="HandlingDynamicElements()[pri:0, instance:assignment3.HandlingDynamicElements@48e1f6c7]" started-at="2024-09-12T19:54:03 IST" name="HandlingDynamicElements" finished-at="2024-09-12T19:54:08 IST" duration-ms="4709" status="PASS">
+        <test-method signature="HandlingDynamicElements()[pri:0, instance:assignment3.HandlingDynamicElements@658c5a19]" started-at="2024-09-13T20:06:43 IST" name="HandlingDynamicElements" finished-at="2024-09-13T20:06:48 IST" duration-ms="4812" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- HandlingDynamicElements -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:assignment3.HandlingDynamicElements@48e1f6c7]" started-at="2024-09-12T19:54:08 IST" name="tearDown" finished-at="2024-09-12T19:54:08 IST" duration-ms="184" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:assignment3.HandlingDynamicElements@658c5a19]" started-at="2024-09-13T20:06:48 IST" name="tearDown" finished-at="2024-09-13T20:06:48 IST" duration-ms="234" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- assignment3.HandlingDynamicElements -->
       <class name="assignment3.FileUploadAndDownload">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:assignment3.FileUploadAndDownload@4722ef0c]" started-at="2024-09-12T19:53:39 IST" name="setUp" finished-at="2024-09-12T19:53:43 IST" duration-ms="4002" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:assignment3.FileUploadAndDownload@6c61a903]" started-at="2024-09-13T20:05:56 IST" name="setUp" finished-at="2024-09-13T20:06:16 IST" duration-ms="19486" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="FileDownload()[pri:0, instance:assignment3.FileUploadAndDownload@4722ef0c]" started-at="2024-09-12T19:53:43 IST" name="FileDownload" finished-at="2024-09-12T19:53:44 IST" duration-ms="608" status="PASS">
+        <test-method signature="FileDownload()[pri:0, instance:assignment3.FileUploadAndDownload@6c61a903]" started-at="2024-09-13T20:06:16 IST" name="FileDownload" finished-at="2024-09-13T20:06:17 IST" duration-ms="691" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FileDownload -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:assignment3.FileUploadAndDownload@4722ef0c]" started-at="2024-09-12T19:53:44 IST" name="tearDown" finished-at="2024-09-12T19:53:44 IST" duration-ms="177" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:assignment3.FileUploadAndDownload@6c61a903]" started-at="2024-09-13T20:06:17 IST" name="tearDown" finished-at="2024-09-13T20:06:17 IST" duration-ms="196" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:assignment3.FileUploadAndDownload@4722ef0c]" started-at="2024-09-12T19:53:44 IST" name="setUp" finished-at="2024-09-12T19:53:48 IST" duration-ms="3855" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:assignment3.FileUploadAndDownload@6c61a903]" started-at="2024-09-13T20:06:17 IST" name="setUp" finished-at="2024-09-13T20:06:20 IST" duration-ms="3554" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="FileDownload2()[pri:0, instance:assignment3.FileUploadAndDownload@4722ef0c]" started-at="2024-09-12T19:53:48 IST" name="FileDownload2" finished-at="2024-09-12T19:53:49 IST" duration-ms="1713" status="PASS">
+        <test-method signature="FileDownload2()[pri:0, instance:assignment3.FileUploadAndDownload@6c61a903]" started-at="2024-09-13T20:06:20 IST" name="FileDownload2" finished-at="2024-09-13T20:06:24 IST" duration-ms="3569" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FileDownload2 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:assignment3.FileUploadAndDownload@4722ef0c]" started-at="2024-09-12T19:53:49 IST" name="tearDown" finished-at="2024-09-12T19:53:50 IST" duration-ms="153" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:assignment3.FileUploadAndDownload@6c61a903]" started-at="2024-09-13T20:06:24 IST" name="tearDown" finished-at="2024-09-13T20:06:24 IST" duration-ms="219" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:assignment3.FileUploadAndDownload@4722ef0c]" started-at="2024-09-12T19:53:50 IST" name="setUp" finished-at="2024-09-12T19:53:54 IST" duration-ms="4332" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:assignment3.FileUploadAndDownload@6c61a903]" started-at="2024-09-13T20:06:24 IST" name="setUp" finished-at="2024-09-13T20:06:38 IST" duration-ms="13859" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="FileUpload()[pri:0, instance:assignment3.FileUploadAndDownload@4722ef0c]" started-at="2024-09-12T19:53:54 IST" name="FileUpload" finished-at="2024-09-12T19:53:54 IST" duration-ms="40" status="PASS">
+        <test-method signature="FileUpload()[pri:0, instance:assignment3.FileUploadAndDownload@6c61a903]" started-at="2024-09-13T20:06:38 IST" name="FileUpload" finished-at="2024-09-13T20:06:38 IST" duration-ms="163" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FileUpload -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:assignment3.FileUploadAndDownload@4722ef0c]" started-at="2024-09-12T19:53:54 IST" name="tearDown" finished-at="2024-09-12T19:53:54 IST" duration-ms="169" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:assignment3.FileUploadAndDownload@6c61a903]" started-at="2024-09-13T20:06:38 IST" name="tearDown" finished-at="2024-09-13T20:06:38 IST" duration-ms="178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

@@ -10,9 +10,18 @@
         <methods>
           <include name="tearDown"/>
           <include name="FileDownload2"/>
+          <include name="FileUpload"/>
           <include name="setUp"/>
+          <include name="FileDownload"/>
         </methods>
       </class> <!-- assignment3.FileUploadAndDownload -->
+      <class name="assignment3.HandlingDynamicElements">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="HandlingDynamicElements"/>
+        </methods>
+      </class> <!-- assignment3.HandlingDynamicElements -->
     </classes>
   </test> <!-- Assignment3 Tests(failed) -->
 </suite> <!-- Failed suite [All Assignments Suite] -->
